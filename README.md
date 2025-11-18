@@ -1,10 +1,10 @@
-# Halo semua! 
+# Hello! 
 
-Perkenalkan nama saya **Alvin Christ Yudantama**.<br>
+My name is **Alvin Christ Yudantama**.<br>
 
-Saya seorang Mahasiswa di [Universitas Amikom Yogyakarta](https://home.amikom.ac.id/).<br>
+Im a student at [Universitas Amikom Yogyakarta](https://home.amikom.ac.id/).<br>
 
-Saya saat ini sedang mengikuti program Bangkit 2024.<br>
+Data and Machine Learning enthusiast. I have experience in data cleaning using SQL, building machine learning models with Python, and working on Google Cloud Platform projects such as Cloud Functions, Cloud SQL, and Cloud Storage. I enjoy transforming raw data into meaningful insights and helping clients make better decisions through data-driven solutions.<br>
 
 
 ### Github Statistic
